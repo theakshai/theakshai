@@ -4,7 +4,7 @@ I am a **pre-final year student at SASTRA Deemed to be University** pursuing my 
 
 I am majorly interested in developing applications using javascript. I am also trying to learn system design, clean architecture and deep down concepts in Networks. I am also interested in Security concepts and general physics and I pursue it in my free time.
 
-I joined DCS in my first year f the community as a non-tech core team member in social-media handling & marketing cluster or my goal towards learning and helping. With the help of y seniors and the DSC ( previously DCS) community I learned a lot and moved into the technical webdev cluster. Currently I am working towards helping our University students and trying to help the commnuity as best as we can.
+I joined DCS in my first year as a non-tech core team member in social-media handling & marketing cluster or my goal towards learning and helping. With the help of seniors and the DSC ( previously DCS) community I learned a lot and moved into the technical webdev cluster. Currently I am working towards helping our University students and trying to help the commnuity as best as we can.
 
 
 # Reach me
