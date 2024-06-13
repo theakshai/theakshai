@@ -6,8 +6,7 @@ I majorly work on AWS, Azure cloud with IAC tools to deploy and maintain infrast
 
 During my days in college, I used to work on developing API and frontend.
 
-I am currently in the path to become a core SRE + AI Engineer with a knowledge of full stack. Apart from this, I am also interested in Security concepts and general physics and I pursue it in my free time.
-
+I am completely fasicnated towards the field of Computer engineering or engineering in general. I like to build/tinker things and I am in the path of becoming the best in that I can ever be.
 
 
 # Reach me
