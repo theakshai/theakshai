@@ -1,10 +1,13 @@
 ### Hi 👋 I'm Akshai
 
-I am a **final year student at SASTRA Deemed to be University** pursuing my Bachelor's Degree in **Electronics and Communication Enginnering**. I'm interested in Web application Development, especially Backend. I am currently a core team member of WebDev Cluster in **Developer Community SASTRA** and a designer is **300dpi ( Official Design team of SASTRA )**. I am also been a part of **E-cell SASTRA** as a marketing associate. I have worked on API development in Fastapi and Express, Frontend Dev with React and Bootstrap. 
+I am a Associate DevOps Engineer, working at Presidio. I completed my **B.Tech ECE** at **SASTRA Deemed to be University**.
 
-I am majorly interested in developing applications using javascript. I am also trying to learn system design, clean architecture and deep down concepts in Networks. I am also interested in Security concepts and general physics and I pursue it in my free time.
+I majorly work on AWS, Azure cloud with IAC tools to deploy and maintain infrastructure for our clients. Currently I am working on Cost Optimization using efficient tagging stratergy along with customer FinOps team and Cleaning up Oboselete Resources in AWS environment to reduce their montly cost in dev and prod account.
 
-I joined DCS in my first year as a non-tech core team member in social-media handling & marketing cluster for my goal towards learning and helping. With the help of seniors and the DSC ( previously DCS) community I learned a lot and moved into the technical webdev cluster. Currently I am working towards helping our University students and trying to help the commnuity as best as we can.
+During my days in college, I used to work on developing API and frontend.
+
+I am currently in the path to become a core SRE + AI Engineer with a knowledge of full stack. Apart from this, I am also interested in Security concepts and general physics and I pursue it in my free time.
+
 
 
 # Reach me
