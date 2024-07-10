@@ -16,7 +16,7 @@ I am completely fasicnated towards the field of Computer engineering or engineer
 
 <br>
 
-| ![Akshai's Github Stats](https://github-readme-stats.vercel.app/api?username=Akshai-2909&show_icons=true_color=fff&theme=algolia) | ![Akshai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshai-2909&theme=algolia) |
+| ![Akshai's Github Stats](https://github-readme-stats.vercel.app/api?username=theakshai&show_icons=true_color=fff&theme=algolia) | ![Akshai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theakshai&theme=algolia) |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 
 
